@@ -189,3 +189,7 @@ form select {
 #file-input {
 	display: none;
 }
+
+canvas {
+	background-color: white;
+}
